@@ -1,5 +1,5 @@
 ##  Image denoiser using opencv python
-![copy](https://www.tensorflow.org/images/banner.png)
+![copy](https://github.com/Onnesok/Image-denoiser-using-opencv-python/blob/main/banner.png)
  
  This is one of the test of mine to see how to manipulate images.
 
