@@ -1,11 +1,11 @@
 ##  Image denoiser using opencv python
-![copy](https://www.tensorflow.org/images/tf_logo_horizontal.png)
+![copy](https://www.tensorflow.org/images/banner.png)
  
  This is one of the test of mine to see how to manipulate images.
 
 [![Compatibility](https://img.shields.io/badge/python-3.12-brightgreen.svg)](https://www.python.org/)
-[![Modified](https://img.shields.io/badge/Coverage-done-green)](Image-denoiser-using-opencv)
-[![Hits](https://hits.sh/github.com/Onnesok/machine-vision.svg)](https://hits.sh/github.com/Onnesok/machine-vision/)
+[![Modified](https://img.shields.io/badge/Coverage-done-green)](Image-denoiser-using-opencv-python)
+[![Hits](https://hits.sh/github.com/Onnesok/Image-denoiser-using-opencv-python.svg)](https://hits.sh/github.com/Onnesok/Image-denoiser-using-opencv-python/)
 ## Installation
 
 First create a virtual environment named denoiser to avoid package conflicts. use ``cmd or bash`` to do it.
