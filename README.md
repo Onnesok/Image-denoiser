@@ -1,11 +1,12 @@
 ##  Image denoiser using opencv python
 ![copy](https://github.com/Onnesok/Image-denoiser-using-opencv-python/blob/main/banner.png)
  
- This is one of the test of mine to see how to manipulate images.
+ This is one of my experiment to see how I can manipulate images using opencv and python. This code shows how to denoise image in several methods. Here I've used gaussian blur, median blur, bilateral filter,
+ non local denoise and wavelet denoise method to denoise the image.
 
 [![Compatibility](https://img.shields.io/badge/python-3.12-brightgreen.svg)](https://www.python.org/)
-[![Modified](https://img.shields.io/badge/Coverage-done-green)](Image-denoiser-using-opencv-python)
-[![Hits](https://hits.sh/github.com/Onnesok/Image-denoiser-using-opencv-python.svg)](https://hits.sh/github.com/Onnesok/Image-denoiser-using-opencv-python/)
+[![Modified](https://img.shields.io/badge/Coverage-done-green)](Image-denoiser)
+[![Hits](https://hits.sh/github.com/Onnesok/Image-denoiser.svg)](https://hits.sh/github.com/Onnesok/Image-denoiser/)
 ## Installation
 
 First create a virtual environment named denoiser to avoid package conflicts. use ``cmd or bash`` to do it.
@@ -32,6 +33,8 @@ For latest version......
 pip install numpy matplotlib opencv-python pywavelets
 ```
 
-wait.... select interpreter of vs code to your selected virtual environment from the bottom right corner.
+Now select interpreter of vs code to your selected virtual environment from the bottom right corner.
 
-Done.
+You are done and good to go....
+
+Happy coding !
